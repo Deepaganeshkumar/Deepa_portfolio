@@ -6,4 +6,11 @@ This is a project I did for my Master’s research paper
 * In this project I have used Convolution Neural Network for detecting covid
 * The model uses Deep learning Techniques
 
+# Project 2:Comparative analysis for the prediction of chronic kidney disease using Machine learning techniques
+This is a project I did for my Master’s research paper
+* This repository represents "Comparative analysis for the prediction of chronic kidney disease using Machine learning techniques"
+* With the help of this project we can predict kidney disease by analysing data and pplying machine learning techniques to predict the disease and then choosing the approach with the highest accuracy rate.
+* Algorithms used :Decision Tree(DT),Extra Tree Classifier,Gradient Boosting classifier,Random Forest
+* The model uses Machine learning Techniques
+
 
