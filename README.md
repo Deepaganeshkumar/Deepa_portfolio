@@ -5,6 +5,9 @@ This is a project I did for my Master’s research paper
 *	With the help of this project we can detect whether the person is affected by covid or not
 * In this project I have used Convolution Neural Network for detecting covid
 * The model uses Deep learning Techniques
+# Data set 
+*   Download the dataset for covid CT
+*   https://github.com/UCSD-AI4H/COVID-CT
 ## overview of the CNN Architecture :![image](https://user-images.githubusercontent.com/130546432/233674282-ec112015-1ace-4587-9ce0-911969ad2e34.png)
 
 # Project 2:Comparative analysis for the prediction of chronic kidney disease using Machine learning techniques
